@@ -1,4 +1,4 @@
-package com.prb.prueba;
+package com.prb.proyecto;
 
 public class Profile {
     public String id ;

@@ -1,4 +1,4 @@
-package com.prb.prueba;
+package com.prb.proyecto;
 
 public class Employee {
 
@@ -30,6 +30,7 @@ public class Employee {
     public Profile getProfile() {
         return profile;
     }
+
 
     public void setProfile(Profile profile) {
         this.profile = profile;

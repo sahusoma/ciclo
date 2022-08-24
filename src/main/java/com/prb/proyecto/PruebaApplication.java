@@ -1,4 +1,4 @@
-package com.prb.prueba;
+package com.prb.proyecto;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
